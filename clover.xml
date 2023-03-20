@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1678813048">
-  <project timestamp="1678813048">
+<coverage generated="1679337722">
+  <project timestamp="1679337722">
     <file name="/app/src/LUVatFormatValidator.php">
       <class name="rocketfellows\LUVatFormatValidator\LUVatFormatValidator" namespace="global">
         <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
